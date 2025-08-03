@@ -1,5 +1,10 @@
-day02_full_adder_verification/
-├── full_adder.v          # Verilog RTL code for Full Adder
-├── tb_full_adder.v       # Testbench for Full Adder
-├── run.sh                # Script to compile and simulate using Icarus Verilog
-└── README.md             # Project overview
+# ✅ Day 2 - Full Adder Verification
+
+### 🔧 Files:
+- `full_adder.v` – RTL Code
+- `tb_full_adder.v` – Testbench
+- `run.sh` – Compile & simulate script
+
+### 🧪 Simulation:
+Compiled using Icarus Verilog (iverilog)  
+Waveform viewed in GTKWave
